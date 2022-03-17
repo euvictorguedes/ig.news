@@ -24,10 +24,6 @@ export async function saveSubscription(
     price_id: subscription.items.data[0].price.id,
   };
 
-  createAction
-    ? console.log('status maybe active', subscriptionData.status)
-    : console.log('status maybe canceled', subscriptionData.status);
-
   if (createAction) {
     await fauna.query(
       q.Create(q.Collection('subscriptions'), {
