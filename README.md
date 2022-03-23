@@ -37,7 +37,7 @@ O **ig.news** é um blog pra te informar sobre o mundo da tecnologia. Desenvolvi
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [desse link](https://www.figma.com/file/0xmu9mj2TJYoIOubBFWsk5/dtmoney-Ignite-(Copy)?node-id=0%3A1).
+Você pode visualizar o layout do projeto através [desse link](https://www.figma.com/file/gl0fHkQgvaUfXNjuwGtDDs/ig.news/duplicate).
 
 ## 🚀 Como executar
 
